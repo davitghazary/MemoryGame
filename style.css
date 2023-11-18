@@ -1,0 +1,18 @@
+.bat{
+    padding: 10px;
+   margin-right:5px;
+}
+.mec{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width:100px;
+    height:100px;
+}
+.col1{
+    margin:10px auto
+}
+.wre{
+    text-align: center;
+}
